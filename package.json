@@ -1,0 +1,11 @@
+{
+  "name": "trueconftest",
+  "version": "1.0.0",
+  "description": "The library that helps working with geometrical figures",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
